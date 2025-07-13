@@ -28,6 +28,12 @@ video {
   box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
+.speed {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
 
 .speed-bar {
   width: 100%;
